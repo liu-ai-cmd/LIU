@@ -6,5 +6,9 @@
   "DS04.zip": {
     "bytes": 36171075,
     "sha256": "bab7237e0d370520ed15bc188bfcacb584f9c033bc2da075f637a974ffa86f64"
+  },
+  "DS01.zip": {
+    "bytes": 37375752,
+    "sha256": "d2e8489c19813fe5cb8158c6220d378f18b4df31bcb3edc4cb1d635035c21e14"
   }
 }
