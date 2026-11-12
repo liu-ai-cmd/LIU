@@ -9,3 +9,10 @@
 |DS04 游戏宣发版（参考2:37）|[下载ZIP](https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/DS04.zip)|包内说明|
 
 下载ZIP后解压，DS01可双击index.html查看全部图片与完整分镜说明。文件校验见checksums.json。此分支专用于交付生成的分镜下载文件。
+
+
+# 第一集 · 三版分镜
+
+[打开三版预览与下载选择页](E01_PREVIEW.md)
+
+[下载第一集全部三版PNG与分镜脚本](https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_ALL_3VERSIONS.zip)
