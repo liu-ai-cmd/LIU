@@ -1,0 +1,263 @@
+{
+  "result": "通过",
+  "zip_count": 4,
+  "preview_jpeg_count": 15,
+  "sample_original_png_count": 3,
+  "web_page_count": 4,
+  "files": [
+    {
+      "file": "previews/E01_DS01/B01-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS01/B01-G01.jpg",
+      "http": 200,
+      "bytes": 114094,
+      "sha256": "26ce42b75e8c479f4139aa6f32a4fa4b5bfbb5a6c4e22e37ae7936ec3cdf2a67",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS01/B02-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS01/B02-G01.jpg",
+      "http": 200,
+      "bytes": 154255,
+      "sha256": "b2ba3640d3b88558f309af7d5962bdc0f49476d6e6c96657a35df644edd85753",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS04.zip",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS04.zip",
+      "http": 200,
+      "bytes": 15165836,
+      "sha256": "297292065f58ab3b9f08ea67c25196ecfb38e9cb93060e9b1b8ed73b81138648",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS03.zip",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS03.zip",
+      "http": 200,
+      "bytes": 14888320,
+      "sha256": "70fb26b67922dd576b075b26c30f0c15d2caf5536fbda7f462b6cbb1b1ec079c",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS01.zip",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS01.zip",
+      "http": 200,
+      "bytes": 15376363,
+      "sha256": "9aa5531158a56bedc17c59df473d2505594093e4c519a65cec4463478f9af45d",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS01/B03-G02.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS01/B03-G02.jpg",
+      "http": 200,
+      "bytes": 149617,
+      "sha256": "42be3ede31b9e23cb741544339f7a2e87270173c1b6db0bfb7b8331121b139f2",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS01/B03-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS01/B03-G01.jpg",
+      "http": 200,
+      "bytes": 161024,
+      "sha256": "c861b35a5d273fbc3cf633bb28a71b8d422fcb0ef468aae6e44779c3d60a3b83",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS01/B03-G03.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS01/B03-G03.jpg",
+      "http": 200,
+      "bytes": 154189,
+      "sha256": "33b533dbed2c73ed7a817fb21f9d1b47d4b56f8db40ec3c3289cfa029f71124d",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS03/B03-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS03/B03-G01.jpg",
+      "http": 200,
+      "bytes": 162483,
+      "sha256": "93708ca0db43b55df5077b0cba04c0b439ca9a31915cf9b1d4c1cd69acc5a098",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS03/B01-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS03/B01-G01.jpg",
+      "http": 200,
+      "bytes": 102568,
+      "sha256": "9d4384793619b19eea1dc37f72e5950719b372878526775e8cc74b2a2426db72",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS03/B03-G02.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS03/B03-G02.jpg",
+      "http": 200,
+      "bytes": 144224,
+      "sha256": "02e90890932483a5ae4397d41e3701c40604538697df3bb19a16cc6545593781",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS03/B02-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS03/B02-G01.jpg",
+      "http": 200,
+      "bytes": 147497,
+      "sha256": "765380cb4d1d8bd6172e63bf02007b71aa939091048244ae3a82a62136866f38",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS04/B03-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS04/B03-G01.jpg",
+      "http": 200,
+      "bytes": 158340,
+      "sha256": "f4e4de9ea578e0ef5a94c67c5f37c600b85ef3e6aa6d923afbbf12bb4d0fa8c1",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_ALL_3VERSIONS.zip",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_ALL_3VERSIONS.zip",
+      "http": 200,
+      "bytes": 45431183,
+      "sha256": "be3fe1038c2fbff21031dc5b847de72fe960af7e4af79e8c4b205bcfb364e1c2",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS04/B01-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS04/B01-G01.jpg",
+      "http": 200,
+      "bytes": 113821,
+      "sha256": "8a22c7ba927ffe883b83583b8aeac2dfb8e6db891964dab89f0c326525f1b724",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS03/B03-G03.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS03/B03-G03.jpg",
+      "http": 200,
+      "bytes": 139187,
+      "sha256": "90fe297fc5c53ab46ea5d5dd652f5aaf67f3d4120452c8b46044ce5da16c1584",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS04/B02-G01.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS04/B02-G01.jpg",
+      "http": 200,
+      "bytes": 155128,
+      "sha256": "cc5fa6c0f15b999c18065042cfd434742980165811a6c2ab4f6753f3f80c65d9",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS04/B03-G02.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS04/B03-G02.jpg",
+      "http": 200,
+      "bytes": 152638,
+      "sha256": "2e1caef5d532464a90d3a5fca6593b033c5278465b7624dbdde585e77d996fd1",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "previews/E01_DS04/B03-G03.jpg",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/previews/E01_DS04/B03-G03.jpg",
+      "http": 200,
+      "bytes": 153197,
+      "sha256": "5ad14e82faa6a3e279953a7599b927a7af4a4f01d783c22982a9d8234db56f59",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS01_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS01_PREVIEW.md",
+      "http": 200,
+      "bytes": 3350,
+      "sha256": "fd64017742db9908ebdd5d2e23c98568be83f1ef0671a7b19548b9c5a01186d1",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "images/E01_DS03/B01-G01.png",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/images/E01_DS03/B01-G01.png",
+      "http": 200,
+      "bytes": 2378482,
+      "sha256": "8c76874402bd4a0397a61e6b3d5c46fe370b1deb3f83fe6c5a3637c061bc99d5",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_PREVIEW.md",
+      "http": 200,
+      "bytes": 1455,
+      "sha256": "bcd777b97360a345eadcfca26be899be91730c2bda7f8918af911e6d02d772f9",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "images/E01_DS01/B01-G01.png",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/images/E01_DS01/B01-G01.png",
+      "http": 200,
+      "bytes": 2579513,
+      "sha256": "56ed24743b8bb5f858a5a4d24c99d816277d92b1afcb841c05539e7e63c6586f",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "images/E01_DS04/B01-G01.png",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/images/E01_DS04/B01-G01.png",
+      "http": 200,
+      "bytes": 2510249,
+      "sha256": "52272cd45eb80f2551365036f500a684068c6adec59f71e3f95b53472d45c05b",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS04_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS04_PREVIEW.md",
+      "http": 200,
+      "bytes": 3460,
+      "sha256": "63466b08fa7cb0ed800e89ce3b6b1b8440443e3fcc3057c1d673ee42c9fc23ec",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "file": "E01_DS03_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_DS03_PREVIEW.md",
+      "http": 200,
+      "bytes": 3477,
+      "sha256": "4c18770664fc5afe9e5c6331f2b23b869568cb5c4678d88e0750a6db6701aabe",
+      "sha256_match": true,
+      "content_disposition": null
+    },
+    {
+      "web_page": "E01_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/blob/storyboard-downloads/E01_PREVIEW.md",
+      "http": 200
+    },
+    {
+      "web_page": "E01_DS01_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/blob/storyboard-downloads/E01_DS01_PREVIEW.md",
+      "http": 200
+    },
+    {
+      "web_page": "E01_DS03_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/blob/storyboard-downloads/E01_DS03_PREVIEW.md",
+      "http": 200
+    },
+    {
+      "web_page": "E01_DS04_PREVIEW.md",
+      "url": "https://github.com/liu-ai-cmd/LIU/blob/storyboard-downloads/E01_DS04_PREVIEW.md",
+      "http": 200
+    }
+  ]
+}
