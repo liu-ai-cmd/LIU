@@ -16,3 +16,10 @@
 [打开三版预览与下载选择页](E01_PREVIEW.md)
 
 [下载第一集全部三版PNG与分镜脚本](https://github.com/liu-ai-cmd/LIU/raw/refs/heads/storyboard-downloads/E01_ALL_3VERSIONS.zip)
+
+
+## 第一集 V2 · 逐动作171镜
+
+[打开最新三版预览与下载](E01_ACTION_V2_PREVIEW.md)
+
+每版19张九宫格，三版共57张，附原文动作核对、分镜脚本与时间表。

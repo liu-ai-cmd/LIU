@@ -26,5 +26,17 @@
   "E01_ALL_3VERSIONS.zip": {
     "bytes": 45431183,
     "sha256": "be3fe1038c2fbff21031dc5b847de72fe960af7e4af79e8c4b205bcfb364e1c2"
+  },
+  "E01_ACTION_V2_DS01.zip": {
+    "bytes": 54080747,
+    "sha256": "15e637bc229415e4461509090ae62a266222994a3cbe52d1a9a46a316f01b6f8"
+  },
+  "E01_ACTION_V2_DS03.zip": {
+    "bytes": 51977502,
+    "sha256": "c75a10cd9d621918e28ea78d6c61722fd69742284040758fc7473825ba84eea9"
+  },
+  "E01_ACTION_V2_DS04.zip": {
+    "bytes": 56375226,
+    "sha256": "94610ca23e03aa98b76fc8b2e3797cbf9ec0412b16f54cc247800ffa72c99aaf"
   }
 }
