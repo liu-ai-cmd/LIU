@@ -38,5 +38,21 @@
   "E01_ACTION_V2_DS04.zip": {
     "bytes": 56375226,
     "sha256": "94610ca23e03aa98b76fc8b2e3797cbf9ec0412b16f54cc247800ffa72c99aaf"
+  },
+  "E01_ORIGINAL_V3_B01.zip": {
+    "bytes": 25733524,
+    "sha256": "611592c85da7c1737fa9021d93fe8b66600ea1a262006b5ba36c797aa3e04c4d"
+  },
+  "E01_ORIGINAL_V3_B02.zip": {
+    "bytes": 44337972,
+    "sha256": "6f89df6430f1b64db5b8ad86a4491b0e1f6a52b757598703a6069d22985d22c3"
+  },
+  "E01_ORIGINAL_V3_B03A.zip": {
+    "bytes": 47696685,
+    "sha256": "964aaab7880a971e462887853a2b88944778a05756df156f8677dd9663aad6bc"
+  },
+  "E01_ORIGINAL_V3_B03B.zip": {
+    "bytes": 46558780,
+    "sha256": "33532d116702494f3809c5c026cae8a8024892d33b7ce7eb5d2c72ce12a1b968"
   }
 }
